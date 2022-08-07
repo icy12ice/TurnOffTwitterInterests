@@ -1,6 +1,8 @@
 # Turn Off Twitter Interests
 I got sick and tired of the plethora of clickbait and spoilers appearing thanks to Twitters absolutely terrible "interests" pushing tweets to my feed.
 
+Apparently even setting the delay to 5 seconds is too fast for twitter. lmao if you had to do this manually it'd require at least 20 minutes of your life.
+
 
 How to use:
 
