@@ -7,7 +7,7 @@ async function turnOffInterests () {
 		if (checkboxes[i].checked === true) {
 			console.log("running " + i);
 			checkboxes[i].click();
-			await timer(4000);
+			await timer(8000);
 		}
 	}
 }
